@@ -8,9 +8,9 @@
 </pregunta>
 <pregunta>
 	<enunciado>¿Que es la escalabilidad?</enunciado>
-	<opcionA>Es la capacidad para dar soporte a un número creciente de usuarios</opcionA>
-	<opcionB>Es para saber cuantos servidores se pueden apilar uno encima de otro</opcionB>
-	<opcionC>Todas son correctas</opcionC>
-	<opcionD>Ninguna es correcta</opcionD>
+	<opcionA>Es la capacidad para dar soporte a un número creciente de usuarios.</opcionA>
+	<opcionB>Es para saber cuantos servidores se pueden apilar uno encima de otro.</opcionB>
+	<opcionC>Todas son correctas.</opcionC>
+	<opcionD>Ninguna es correcta.</opcionD>
 	<solucion>A</solucion>
 </pregunta>
