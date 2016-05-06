@@ -1,0 +1,16 @@
+<pregunta>
+	<enunciado>¿Para que sirve Apache Benchmark?</enunciado>
+	<opcionA>Permite comprobar el rendimiento de cualquier servidor.</opcionA>
+	<opcionB>Para analizar el PC.</opcionB>
+	<opcionC>Simula con total fidelidad el uso del sitio web que pueden hacer los usuarios.</opcionC>
+        <opcionD>Para jugar.</opcionD>
+	<solucion>A</solucion>
+</pregunta>
+<pregunta>
+	<enunciado>¿Que es httperf?</enunciado>
+	<opcionA>Un software de contabilidad.</opcionA>
+	<opcionB>Un switch.</opcionB>
+	<opcionC>Un antivirus.</opcionC>
+	<opcionD>httperf es una herramienta para medir el rendimiento de sitios web.</opcionD>
+	<solucion>D</solucion>
+</pregunta>

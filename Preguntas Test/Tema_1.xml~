@@ -1,0 +1,16 @@
+<pregunta>
+	<enunciado>¿Que es una granja WEB?</enunciado>
+	<opcionA>Conjunto de servidores que sirven páginas Web.</opcionA>
+	<opcionB>Ninguna es correcta.</opcionB>
+	<opcionC>Todas son correctas.</opcionC>
+	<opcionD>Una pagina Web.</opcionD>
+	<solucion>A</solucion>
+</pregunta>
+<pregunta>
+	<enunciado>¿Que es la escalabilidad?</enunciado>
+	<opcionA>Es la capacidad para dar soporte a un número creciente de usuarios</opcionA>
+	<opcionB>Es para saber cuantos servidores se pueden apilar uno encima de otro</opcionB>
+	<opcionC>Todas son correctas</opcionC>
+	<opcionD>Ninguna es correcta</opcionD>
+	<solucion>A</solucion>
+</pregunta>

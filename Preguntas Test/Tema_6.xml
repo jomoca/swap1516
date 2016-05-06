@@ -1,0 +1,16 @@
+<pregunta>
+	<enunciado>¿Para que sirve un cortafuegos?</enunciado>
+	<opcionA>Todas son correctas.</opcionA>
+	<opcionB>No hay ninguna correcta.</opcionB>
+	<opcionC>Un cortafuegos protege el sistema de accesos indebidos.</opcionC>
+	<opcionD>Un cortafuegos sirve para crear archivos.</opcionD>
+	<solucion>C</solucion>
+</pregunta>
+<pregunta>
+	<enunciado>¿Que funciones realiza el cortafuegos?</enunciado>
+	<opcionA>Las respuesta C y D son correctas.</opcionA>
+	<opcionB>Vaciar la papelera.</opcionB>
+	<opcionC>Ocultar la verdadera dirección del servidor, actuando como un proxy.</opcionC>
+	<opcionD>La tarea principal es bloquear y filtrar paquetes.</opcionD>
+	<solucion>A</solucion>
+</pregunta>
