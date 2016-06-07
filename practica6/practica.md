@@ -15,7 +15,7 @@ Siendo /dev/sdb y /dev/sdc los dos nuevos discos.
 Para comprobar el estado del RAID ejecutamos
 sudo mdadm --detail /dev/md0
 
-![img](https://github.com/jomoca/swap1516/blob/master/practica5/imagenes/estado_raid.png)
+![img](https://github.com/jomoca/swap1516/blob/master/practica6/imagenes/estado_raid.png)
 
 Para finalizar el proceso, conviene configurar el sistema para que monte el dispositivo
 RAID creado al arrancar el sistema. Para ello debemos editar el archivo /etc/fstab y
@@ -31,4 +31,4 @@ podemos añadir al final del archivo /etc/fstab la línea para que monte automá
 el dispositivo RAID, que será similar a:
 UUID=ccbbbbcc-dddd-eeee-ffff-aaabbbcccddd /dat ext2 defaults 0 0
 
-![img](https://github.com/jomoca/swap1516/blob/master/practica5/imagenes/ss.png)
+![img](https://github.com/jomoca/swap1516/blob/master/practica6/imagenes/ss.png)
